@@ -1,0 +1,31 @@
+@import "user-chrome.css";
+@import "theme-material-blue.css";
+@import "custom.css";
+
+#identity-box.extensionPage {
+    display: none !important;
+}
+
+/* Ensure consistent border radius for the URL bar */
+#urlbar,
+#urlbar-background,
+#urlbar-container {
+    border-radius: 16px !important;
+    overflow: hidden;
+}
+
+/* Make sure the text inside is properly aligned */
+#urlbar-input {
+    padding-left: 8px !important; /* Adjust text padding */
+    margin: 0px !important;
+    height: 100% !important;
+}
+
+/* Increase tab font size */
+.tab-label {
+    font-size: 16px !important; /* Adjust to your preference */
+}
+
+button span.button-background { 
+    display: none !important; 
+}
