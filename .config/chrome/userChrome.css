@@ -1,31 +1,56 @@
-@import "user-chrome.css";
-@import "theme-material-blue.css";
-@import "custom.css";
-
 #identity-box.extensionPage {
     display: none !important;
 }
 
-/* Ensure consistent border radius for the URL bar */
+/* Round the search bar edges */
 #urlbar,
 #urlbar-background,
+#urlbar[focused],
 #urlbar-container {
-    border-radius: 16px !important;
+    border-radius: 10px !important;
     overflow: hidden;
 }
 
-/* Make sure the text inside is properly aligned */
-#urlbar-input {
-    padding-left: 8px !important; /* Adjust text padding */
-    margin: 0px !important;
-    height: 100% !important;
+/* Round the tabs */
+.tabbrowser-tab,
+:is(.tabbrowser-tab[selected] .tab-background),
+.tab-background {
+    border-radius: 10px !important;
 }
 
-/* Increase tab font size */
-.tab-label {
-    font-size: 16px !important; /* Adjust to your preference */
+/* Less rounding for inactive tabs */
+.tabbrowser-tab:not([selected]) .tab-background {
+    border-radius: 8px !important;
 }
 
-button span.button-background { 
-    display: none !important; 
+/* Reduce extra padding in the tab bar */
+#TabsToolbar {
+    padding: 0 !important;
 }
+
+/* Reduce padding inside tabs */
+.tabbrowser-tab {
+    padding: 0 2px !important;
+}
+
+/* Reduce padding around the tab label (text) */
+.tabbrowser-tab .tab-label-container {
+    padding: 0 0px !important;
+}
+
+/* Round the identity box */
+#identity-box {
+    border-radius: 8px !important;
+    overflow: hidden !important;
+}
+
+/* Adjust tab height and spacing */
+#TabsToolbar .tabbrowser-tab {
+    padding-block: 1px !important;
+    min-height: 20px !important;
+}
+
+.tab-background {
+    margin-block: 0px !important;
+}
+
