@@ -82,7 +82,7 @@ panel-positions='{"SHP-0x00000000":"BOTTOM"}'
 panel-sizes='{}'
 prefs-opened=false
 primary-monitor='SHP-0x00000000'
-show-apps-icon-file='/home/abdullah/Downloads/pngwing.com.png'
+show-apps-icon-file='/home/abdullah/Pictures/pngwing.com.png'
 show-apps-icon-side-padding=0
 showdesktop-button-width=4
 stockgs-keep-top-panel=false
@@ -116,4 +116,3 @@ settings-version=uint32 7
 
 [tweaks-system-menu]
 applications=['org.gnome.tweaks.desktop', 'ca.desrt.dconf-editor.desktop']
-
