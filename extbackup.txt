@@ -262,7 +262,7 @@ wmaxbar=false
 [arch-update]
 always-visible=false
 enable-positioning=true
-position=2
+position=0
 position-number=0
 use-buildin-icons=true
 
@@ -343,7 +343,7 @@ panel-positions='{"SHP-0x00000000":"BOTTOM"}'
 panel-sizes='{}'
 prefs-opened=false
 primary-monitor='SHP-0x00000000'
-show-apps-icon-file='/home/abdullah/Pictures/pngwing.com.png'
+show-apps-icon-file='/home/abdullah/Pictures/cachyos.svg'
 show-apps-icon-side-padding=0
 showdesktop-button-width=6
 stockgs-keep-top-panel=false
@@ -362,6 +362,7 @@ mouse-sensitive=false
 
 [just-perfection]
 accessibility-menu=false
+dash-separator=false
 startup-status=1
 support-notifier-showed-version=34
 support-notifier-type=0
@@ -440,3 +441,6 @@ settings-version=uint32 7
 
 [tweaks-system-menu]
 applications=['org.gnome.tweaks.desktop', 'ca.desrt.dconf-editor.desktop']
+
+[user-theme]
+name='Orchis-Dark'
