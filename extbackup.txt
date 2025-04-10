@@ -369,9 +369,9 @@ support-notifier-type=0
 theme=true
 
 [ncom/github/hermes83/compiz-alike-magic-lamp-effect]
-duration=200.0
+duration=205.0
 effect='default'
-x-tiles=6.0
+x-tiles=5.0
 y-tiles=3.0
 
 [net/gfxmonk/impatience]
