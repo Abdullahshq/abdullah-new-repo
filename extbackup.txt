@@ -441,6 +441,3 @@ settings-version=uint32 7
 
 [tweaks-system-menu]
 applications=['org.gnome.tweaks.desktop', 'ca.desrt.dconf-editor.desktop']
-
-[user-theme]
-name='Orchis-Dark'
