@@ -1,0 +1,31 @@
+param($Timer)
+
+$ErrorActionPreference = "Stop"
+
+$subscriptionId = "adc9f320-e56e-45b1-845e-c73484745fc8"
+$tenantId = "99b05a77-3279-4426-9a27-634ead70fe0b"
+$rsgName = "abd-rg"
+$vmName = "abdfuncvm"
+
+# Import required Az modules
+Import-Module Az.Accounts
+Import-Module Az.Compute
+
+# Get current UTC time
+$currentTime = (Get-Date).ToUniversalTime()
+$hour = $currentTime.Hour
+$minute = $currentTime.Minute
+
+# Check if it's 08:00 UTC (1:00 PM PKT) to start VM
+if ($hour -eq 8 -and $minute -eq 0) {
+    Write-Output "Starting VM at $($currentTime.ToString('HH:mm')) UTC"
+    Start-AzVM -ResourceGroupName $rsgName -Name $vmName -Force
+}
+# Check if it's 08:05 UTC (1:05 PM PKT) to stop VM
+elseif ($hour -eq 8 -and $minute -eq 5) {
+    Write-Output "Stopping VM at $($currentTime.ToString('HH:mm')) UTC"
+    Stop-AzVM -ResourceGroupName $rsgName -Name $vmName -Force
+}
+else {
+    Write-Output "No action required at $($currentTime.ToString('HH:mm')) UTC"
+}
