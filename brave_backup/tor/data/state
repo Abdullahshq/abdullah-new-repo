@@ -1,0 +1,28 @@
+# Tor state file last generated on 2025-06-09 19:55:46 local time
+# Other times below are in UTC
+# You *do not* need to edit this file.
+
+Dormant 0
+Guard in=default rsa_id=52E4DEDEFA410A030571ABD04300DFE86D1B0A59 nickname=NTH37R6 sampled_on=2025-06-04T19:17:20 sampled_idx=0 sampled_by=0.4.8.14 listed=1 confirmed_on=2025-06-05T06:30:10 confirmed_idx=1
+Guard in=default rsa_id=18671DE5092C67883BFB2450C3267B92618BEC66 nickname=ForPrivacyNET sampled_on=2025-06-06T23:32:38 sampled_idx=1 sampled_by=0.4.8.14 listed=1 confirmed_on=2025-06-06T06:35:09 confirmed_idx=0
+Guard in=default rsa_id=5F3B05B9A5575E614337AFA84DF04F526CD14C1B nickname=PWKR sampled_on=2025-06-06T19:09:01 sampled_idx=2 sampled_by=0.4.8.14 listed=1
+Guard in=default rsa_id=F4D6D9BD5BCBA77AC5AFEE579125EBDC27DE9BEB nickname=Unnamed sampled_on=2025-06-06T01:23:37 sampled_idx=3 sampled_by=0.4.8.14 listed=1
+Guard in=default rsa_id=EE587F2D44F7EC6AB9B3334D6E6A2FDC57FFA63C nickname=FourteenEyes sampled_on=2025-06-02T13:30:39 sampled_idx=4 sampled_by=0.4.8.14 listed=1
+Guard in=default rsa_id=2D6145A6F821CD4D7FFA8EC92BA712DBD59437FB nickname=SunGod sampled_on=2025-06-09T07:36:50 sampled_idx=5 sampled_by=0.4.8.14 listed=1
+Guard in=default rsa_id=43BB4DD60D2E7C8B2E8ACC11044E17D29E3E3EBB nickname=Nyarlathotep sampled_on=2025-05-31T04:52:43 sampled_idx=6 sampled_by=0.4.8.14 listed=1
+Guard in=default rsa_id=064D183D34DECB84F72C4335B0C24D1E8946A9BA nickname=TheYOSH sampled_on=2025-06-08T12:08:21 sampled_idx=7 sampled_by=0.4.8.14 listed=1
+Guard in=default rsa_id=BD5E1D086CE46DA7F9E381AC04E3382D32AF80DC nickname=megantheestallion4 sampled_on=2025-06-07T08:45:20 sampled_idx=8 sampled_by=0.4.8.14 listed=1
+Guard in=default rsa_id=E61B6EDD8816CE37288CB1DE488790DE16B01716 nickname=relay1 sampled_on=2025-06-02T10:11:00 sampled_idx=9 sampled_by=0.4.8.14 listed=1
+Guard in=default rsa_id=A7A6BAAE17FB162164327C34229E7D0D81D4DC82 nickname=gaara sampled_on=2025-06-06T13:17:22 sampled_idx=10 sampled_by=0.4.8.14 listed=1
+Guard in=default rsa_id=7073615527C347D102455E37E8AD0F31D4356C33 nickname=RDPdotSH sampled_on=2025-05-29T22:53:40 sampled_idx=11 sampled_by=0.4.8.14 listed=1
+Guard in=default rsa_id=96904D2CCC4AC2BB80CDAD28AC63B2A92956884A nickname=inspectahdeck sampled_on=2025-06-05T00:11:40 sampled_idx=12 sampled_by=0.4.8.14 listed=1
+Guard in=default rsa_id=37A5E87EBD0B99B09650B32C8F3E085CF83A6EA7 nickname=Unnamed sampled_on=2025-05-30T20:32:04 sampled_idx=13 sampled_by=0.4.8.14 listed=1
+Guard in=default rsa_id=3F8B4D9442218B3EA6CC8FD05E37E62B3E6AB361 nickname=Famy sampled_on=2025-05-29T07:31:16 sampled_idx=14 sampled_by=0.4.8.14 listed=1
+Guard in=default rsa_id=09C375184DE999CE1B4AC034190F5A9F916479F9 nickname=fluffypancakes003nl sampled_on=2025-06-04T10:46:43 sampled_idx=15 sampled_by=0.4.8.14 listed=1
+Guard in=default rsa_id=9CD25E71E41D509B6882F0E253077F9EAFE444E8 nickname=Diamondback sampled_on=2025-06-02T02:21:35 sampled_idx=16 sampled_by=0.4.8.14 listed=1
+Guard in=default rsa_id=9DC0D6442AE1036FDB556185C95754911EB1065A nickname=phobos sampled_on=2025-05-30T13:58:54 sampled_idx=17 sampled_by=0.4.8.14 listed=1
+Guard in=default rsa_id=D8EA105E79803FB0040A8C2A676D93DAEA2CFFF0 nickname=tryler sampled_on=2025-06-05T16:27:58 sampled_idx=18 sampled_by=0.4.8.14 listed=1
+Guard in=default rsa_id=512219649B647564779A016C054ADCF1D08D48EF nickname=revolt sampled_on=2025-06-08T13:51:09 sampled_idx=19 sampled_by=0.4.8.14 listed=1
+LastWritten 2025-06-09 14:55:46
+MinutesSinceUserActivity 1
+TorVersion Tor 0.4.8.14

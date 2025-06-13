@@ -1,0 +1,278 @@
+{
+   "checksum": "41cd6dde2e0ef828c6f483ad9c9c5d50",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13393259554435288",
+            "date_last_used": "0",
+            "guid": "8c21f53d-a61d-498b-8870-02335bc18f0d",
+            "id": "5",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Your Repositories",
+            "type": "url",
+            "url": "https://github.com/Abdullahshq?tab=repositories"
+         }, {
+            "date_added": "13393322582086639",
+            "date_last_used": "13393851889208439",
+            "guid": "3301abad-a2ee-4e58-b6f2-61487019ed0d",
+            "id": "7",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Course: AZ-400 Designing and Implementing DevOps Certification | Udemy",
+            "type": "url",
+            "url": "https://www.udemy.com/course/azure100/learn/lecture/33163050?start=75#overview"
+         }, {
+            "date_added": "13393322771719259",
+            "date_last_used": "13393858286198597",
+            "guid": "fc1b2bd4-8ac4-4e90-96ff-26964c77ef9f",
+            "id": "8",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Azure_boards Team May Week 4 (2025) Taskboard - Boards",
+            "type": "url",
+            "url": "https://dev.azure.com/puffersoft-m/Azure_boards/_sprints/taskboard/Azure_boards%20Team/Azure_boards/May%20Week%204%20(2025)"
+         }, {
+            "date_added": "13393332511770461",
+            "date_last_used": "13393951584251508",
+            "guid": "c4ba60d3-b8f8-4849-8764-d9d09269516e",
+            "id": "11",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Themes",
+            "type": "url",
+            "url": "https://rosepinetheme.com/themes/"
+         }, {
+            "date_added": "13393334614401382",
+            "date_last_used": "0",
+            "guid": "f41cf9f9-c90a-4024-bbaf-5cfdf674c96c",
+            "id": "13",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Track Your Application - Docs | FBISE",
+            "type": "url",
+            "url": "https://applications.fbise.edu.pk/docs/tracking"
+         }, {
+            "date_added": "13393404085774922",
+            "date_last_used": "13393415712794861",
+            "guid": "aea1ff19-40f9-4c04-a487-e6825c0b9f67",
+            "id": "15",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Welcome!",
+            "type": "url",
+            "url": "file:///home/abdullah/Downloads/Ma%20Code!.html"
+         }, {
+            "date_added": "13393406664053684",
+            "date_last_used": "13393506949210490",
+            "guid": "197190e5-f045-46ac-8181-cfcbe1edd642",
+            "id": "16",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "How I Passed the RHCSA EX200 in 2024 :: Jose N Sosa",
+            "type": "url",
+            "url": "https://josensosa.com/rhcsa-ex200-course/getting-started/how-i-passed-rhcsa/index.html"
+         }, {
+            "date_added": "13393406890149041",
+            "date_last_used": "0",
+            "guid": "b7f7dc60-7de9-4cbd-8089-79b9713f1c56",
+            "id": "17",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Red Hat Certified System Administrator (RHCSA) RHEL 9[Video]",
+            "type": "url",
+            "url": "https://www.oreilly.com/library/view/red-hat-certified/9780137931521/"
+         }, {
+            "date_added": "13393408138422010",
+            "date_last_used": "0",
+            "guid": "e9c2a52e-7095-4678-91d6-049301b6a072",
+            "id": "18",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "aggressiveHiker/rhcsa9: RHCSA 9 Lab Setup and Practice Tasks",
+            "type": "url",
+            "url": "https://github.com/aggressiveHiker/rhcsa9"
+         }, {
+            "date_added": "13393426277331193",
+            "date_last_used": "13394101685368624",
+            "guid": "f09bb360-ac61-4d47-a762-a55583614aed",
+            "id": "20",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Red Hat RHCSA 8 & 9 (EX200) Practice Exams with Answers 2025 | Udemy",
+            "type": "url",
+            "url": "https://www.udemy.com/course/unofficial-practice-exams-to-prepare-for-rhcsa/?couponCode=ST21MT30625G2"
+         }, {
+            "date_added": "13393426326935797",
+            "date_last_used": "0",
+            "guid": "cad38412-6f43-4a73-887a-7adda0aa2e66",
+            "id": "21",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "RedHat EX200 Real Exam Questions and Answers FREE - ITExams.com",
+            "type": "url",
+            "url": "https://www.itexams.com/info/EX200"
+         }, {
+            "date_added": "13393426350057829",
+            "date_last_used": "0",
+            "guid": "6a7a61df-7763-4a09-a13b-52f48d62b698",
+            "id": "22",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "RHCSA Certification Exam Practice Exercises | EX200 Questions | LabEx",
+            "type": "url",
+            "url": "https://labex.io/courses/rhcsa-certification-exam-practice-exercises"
+         }, {
+            "date_added": "13393502330494789",
+            "date_last_used": "13394098368259619",
+            "guid": "3bf4bfb7-86ea-45e2-8691-4bde7ae3e04f",
+            "id": "24",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "AZ-204 Exam - Free Actual Q&As, Page 1 | ExamTopics",
+            "type": "url",
+            "url": "https://www.examtopics.com/exams/microsoft/az-204/view/"
+         }, {
+            "date_added": "13393506937836813",
+            "date_last_used": "0",
+            "guid": "7a0e97e0-5b2a-404d-ac2c-1dde751e8f68",
+            "id": "25",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Microsoft Certified: Azure Developer Associate - Certifications | Microsoft Learn",
+            "type": "url",
+            "url": "https://learn.microsoft.com/en-us/credentials/certifications/azure-developer/?practice-assessment-type=certification"
+         }, {
+            "date_added": "13393849167048058",
+            "date_last_used": "13393854855067434",
+            "guid": "8105f0a5-54e9-47f9-bbe3-758477b68ec9",
+            "id": "27",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "GitHub - kolunmi/bazaar",
+            "type": "url",
+            "url": "https://github.com/kolunmi/bazaar"
+         }, {
+            "date_added": "13393925662037689",
+            "date_last_used": "0",
+            "guid": "9d2363a4-0915-4f90-bad1-2e3882ef7d98",
+            "id": "29",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "How to Install KVM on Ubuntu | phoenixNAP KB",
+            "type": "url",
+            "url": "https://phoenixnap.com/kb/ubuntu-install-kvm"
+         }, {
+            "date_added": "13393925842913424",
+            "date_last_used": "13393925926664759",
+            "guid": "3323571d-70ee-4feb-beb7-d870e81d5c42",
+            "id": "30",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Setup Qemu in Debian Linux",
+            "type": "url",
+            "url": "https://christitus.com/vm-setup-in-linux/"
+         }, {
+            "date_added": "13394003560412147",
+            "date_last_used": "13394004726311935",
+            "guid": "055886a4-c50e-4f9a-9fdc-80f3ced596ce",
+            "id": "32",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "GitHub - nextcloud/all-in-one: 📦 The official Nextcloud installation method. Provides easy deployment and maintenance with most features included in this one Nextcloud instance.",
+            "type": "url",
+            "url": "https://github.com/nextcloud/all-in-one#nextcloud-all-in-one"
+         }, {
+            "date_added": "13394026654425046",
+            "date_last_used": "0",
+            "guid": "c12f3343-a412-4bbe-af3b-1264f986e6de",
+            "id": "34",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Watch Roman Holiday 1953 full HD on SFlix Free",
+            "type": "url",
+            "url": "https://sflix.to/movie/free-roman-holiday-hd-17088"
+         }, {
+            "date_added": "13394107073515419",
+            "date_last_used": "0",
+            "guid": "8e28a04f-5da5-4996-9d6b-77e3898aa9cf",
+            "id": "36",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Pearson VUE - It’s time to test your system",
+            "type": "url",
+            "url": "https://wsr.pearsonvue.com/testtaker/checkout/OrderSummaryPage/MICROSOFT?conversationId=1310247"
+         }, {
+            "date_added": "13394107231363813",
+            "date_last_used": "0",
+            "guid": "bfc0b166-9ac1-4669-8bb9-20ad8eefed96",
+            "id": "37",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "(1) Roundcube Webmail :: Inbox",
+            "type": "url",
+            "url": "https://webmail.puffersoft.com/cpsess1756066190/3rdparty/roundcube/?_task=mail&_mbox=INBOX"
+         } ],
+         "date_added": "13393259479920341",
+         "date_last_used": "0",
+         "date_modified": "13394107231363813",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Bookmarks",
+         "type": "folder"
+      },
+      "other": {
+         "children": [ {
+            "date_added": "13393329890062916",
+            "date_last_used": "0",
+            "guid": "b76d65b3-df99-4050-adb6-e6196a0d9fa0",
+            "id": "10",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Red Hat certification remote exams now available",
+            "type": "url",
+            "url": "https://www.redhat.com/en/blog/red-hat-certification-remote-exams-now-available"
+         } ],
+         "date_added": "13393259479920344",
+         "date_last_used": "0",
+         "date_modified": "13393332511770461",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13393259479920346",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}

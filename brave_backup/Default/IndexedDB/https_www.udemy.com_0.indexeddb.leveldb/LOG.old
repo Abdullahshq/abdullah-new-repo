@@ -1,0 +1,7 @@
+2025/06/06-14:31:57.944 be5 Reusing MANIFEST /home/abdullah/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.udemy.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/06/06-14:31:57.944 be5 Recovering log #3
+2025/06/06-14:31:57.945 be5 Reusing old log /home/abdullah/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.udemy.com_0.indexeddb.leveldb/000003.log 
+2025/06/06-14:32:28.819 be6 Level-0 table #5: started
+2025/06/06-14:32:28.821 be6 Level-0 table #5: 5469 bytes OK
+2025/06/06-14:32:28.822 be6 Delete type=0 #3
+2025/06/06-14:32:28.822 be6 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
